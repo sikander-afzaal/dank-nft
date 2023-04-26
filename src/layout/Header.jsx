@@ -23,35 +23,35 @@ const Header = () => {
         >
           <a
             onClick={() => setHeaderToggle(false)}
-            href="#"
+            href="#home"
             className="text-white text-xl xl:text-[22px] font-semibold"
           >
             Home
           </a>
           <a
             onClick={() => setHeaderToggle(false)}
-            href="#"
+            href="#about"
             className="text-white text-xl xl:text-[22px] font-semibold"
           >
             About
           </a>
           <a
             onClick={() => setHeaderToggle(false)}
-            href="#"
+            href="#how"
             className="text-white text-xl xl:text-[22px] font-semibold"
           >
             How to Buy
           </a>
           <a
             onClick={() => setHeaderToggle(false)}
-            href="#"
+            href="#tokenomics"
             className="text-white text-xl xl:text-[22px] font-semibold"
           >
             Tokenomics
           </a>
           <a
             onClick={() => setHeaderToggle(false)}
-            href="#"
+            href="#roadmap"
             className="text-white text-xl xl:text-[22px] font-semibold"
           >
             Roadmap

@@ -1,6 +1,6 @@
 const Hero = () => {
   return (
-    <div className="wrapper mt-[220px]">
+    <section id="home" className="wrapper mt-[220px]">
       <div className="contain flex-col justify-center items-center gap-14">
         <h2 className="text-center uppercase max-w-[900px] text-[28px] sm:text-[35px] lg:text-[55px] text-white font-bold">
           Dank is here to help grow the meme army{" "}
@@ -45,7 +45,7 @@ const Hero = () => {
           />
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

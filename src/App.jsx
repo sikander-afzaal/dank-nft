@@ -1,3 +1,4 @@
+import Footer from "./layout/Footer";
 import Header from "./layout/Header";
 import Home from "./pages/home/Index";
 
@@ -11,6 +12,7 @@ const App = () => {
       />
       <Header />
       <Home />
+      <Footer />
     </>
   );
 };

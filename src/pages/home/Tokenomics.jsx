@@ -1,6 +1,9 @@
 const Tokenomics = () => {
   return (
-    <div className="wrapper  py-[50px] sm:py-[100px] bg-darkBg">
+    <section
+      id="tokenomics"
+      className="wrapper  py-[50px] sm:py-[100px] bg-darkBg"
+    >
       <div className="contain lg:flex-row flex-col justify-between relative gap-10 items-center">
         <div className="flex justify-start lg:w-auto w-full flex-col gap-10">
           <div>
@@ -57,7 +60,7 @@ const Tokenomics = () => {
           alt=""
         />
       </div>
-    </div>
+    </section>
   );
 };
 

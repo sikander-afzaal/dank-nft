@@ -1,6 +1,6 @@
 const How = () => {
   return (
-    <div className="wrapper pb-[50px] sm:pb-[100px] mt-[100px]">
+    <section id="how" className="wrapper pb-[50px] sm:pb-[100px] mt-[100px]">
       <div className="contain flex-col justify-center items-center w-full gap-5">
         <h2 className="title mb-6">HOW TO BUY</h2>
         <Row
@@ -27,7 +27,7 @@ const How = () => {
           desc="switch ETH for $DANK. We have ZERO taxes so you don’t need to worry about buying with a specific slippage, although you may need to use slippage during times of market volatility."
         />
       </div>
-    </div>
+    </section>
   );
 };
 

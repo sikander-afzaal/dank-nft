@@ -29,3 +29,7 @@
     @apply text-white font-bold text-[38px] sm:text-[45px];
   }
 }
+html {
+  scroll-behavior: smooth;
+  scroll-padding-block: 200px;
+}
