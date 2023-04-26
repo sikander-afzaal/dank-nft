@@ -1,9 +1,17 @@
 import Hero from "./Hero";
+import How from "./How";
+import Roadmap from "./Roadmap";
+import Tokenomics from "./Tokenomics";
 
 const Home = () => {
   return (
     <>
-      <Hero />
+      <>
+        <Hero />
+        <How />
+        <Tokenomics />
+        <Roadmap />
+      </>
     </>
   );
 };

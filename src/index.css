@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
 @font-face {
   font-family: Roundo;
   src: url("/font/Roundo-Bold.otf");
@@ -8,7 +9,6 @@
   src: url("/font/Roundo-SemiBold.otf");
   font-weight: 600;
 }
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -24,5 +24,8 @@
   }
   .contain {
     @apply flex w-[90%] max-w-[1240px];
+  }
+  .title {
+    @apply text-white font-bold text-[38px] sm:text-[45px];
   }
 }
