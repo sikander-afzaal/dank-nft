@@ -148,15 +148,11 @@ const Roadmap = () => {
               <p className="text-white text-lg md:text-2xl font-semibold">
                 100k Twitter Followers
               </p>
-              <p className="text-white text-lg md:text-2xl font-semibold">
-                Youtube Campaign
-              </p>
+
               <p className="text-white text-lg md:text-2xl font-semibold">
                 Brand Awareness Campaign
               </p>
-              <p className="text-white text-lg md:text-2xl font-semibold">
-                Mobile Video Game
-              </p>
+
               <p className="text-white text-lg md:text-2xl font-semibold">
                 Partnerships
               </p>

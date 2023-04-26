@@ -6,47 +6,31 @@ const Footer = () => {
           © 2023 by DANK. All rights reserved!
         </p>
         <div className="flex justify-center gap-2">
-          <a
-            href="#"
-            target="blank"
-            className="rounded-full bg-white w-[35px] sm:w-[45px] aspect-square grid place-items-center"
-          >
+          <a href="https://twitter.com/dankarmyeth" target="blank">
             <img
-              src="/twitter.png"
-              className="max-w-[20px] sm:max-w-[28px] object-contain"
+              src="/twitter.svg"
+              className=" w-[45px]  hover:rotate-90 transition-all duration-700 object-contain"
               alt=""
             />
           </a>
-          <a
-            href="#"
-            target="blank"
-            className="rounded-full bg-white w-[35px] sm:w-[45px] aspect-square grid place-items-center"
-          >
+          <a href="https://t.me/dankarmyeth" target="blank">
             <img
-              src="/telegram.png"
-              className="max-w-[20px] sm:max-w-[28px] object-contain"
+              src="/telegram.svg"
+              className=" w-[45px]  hover:rotate-90 transition-all duration-700 object-contain"
               alt=""
             />
           </a>
-          <a
-            href="#"
-            target="blank"
-            className="rounded-full bg-white w-[35px] sm:w-[45px] aspect-square grid place-items-center"
-          >
+          <a href="#" target="blank">
             <img
-              src="/dex.png"
-              className="max-w-[20px] sm:max-w-[28px] object-contain"
+              src="/dex.svg"
+              className=" w-[45px]  hover:rotate-90 transition-all duration-700 object-contain"
               alt=""
             />
           </a>
-          <a
-            href="#"
-            target="blank"
-            className="rounded-full bg-white w-[35px] sm:w-[45px] aspect-square grid place-items-center"
-          >
+          <a href="#" target="blank">
             <img
-              src="/medium.png"
-              className="max-w-[20px] sm:max-w-[28px] object-contain"
+              src="/medium.svg"
+              className=" w-[45px]  hover:rotate-90 transition-all duration-700 object-contain"
               alt=""
             />
           </a>

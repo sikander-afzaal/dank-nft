@@ -11,7 +11,7 @@ const Hero = () => {
         <div className="flex xl:flex-row flex-col justify-between  items-center w-full gap-8">
           <div className="flex justify-start xl:max-w-[580px] items-center text-center xl:text-left  xl:items-start flex-col gap-5 ">
             <h3 className="text-primary uppercase text-2xl sm:text-3xl  font-bold">
-              So that we can conquer the dog coins for good
+              Let's conquer the dog coins for good
             </h3>
             <p className="text-lg md:text-xl font-bold text-white">
               We are the original meme
