@@ -10,10 +10,10 @@ const Header = () => {
           className="bg-black opacity-70 fixed top-0 lg:hidden block left-0 w-full h-full z-[88]"
         ></div>
       )}
-      <div className="contain justify-between items-center gap-2 h-[100px] lg:h-[130px]">
+      <div className="contain justify-between items-center gap-2 h-[100px] ">
         <img
           src="/logo.png"
-          className="w-[60px] lg:w-[94px] aspect-square h-[64px] lg:h-[94px]"
+          className="w-[60px] lg:w-[74px] aspect-square h-[64px] lg:h-[74px]"
           alt=""
         />
         <nav
