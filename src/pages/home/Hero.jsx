@@ -25,7 +25,11 @@ const Hero = () => {
             <p className="text-lg md:text-xl font-bold text-white">
               $DANK is the perfect coin for all meme lovers worldwide.
             </p>
-            <button className="bg-babyPink text-white text-xl  font-bold rounded-full w-full md:w-[250px] h-[60px]  flex justify-center items-center gap-4 ">
+            <a
+              href="https://www.pinksale.finance/launchpad/0x532562f64CA3fD412Eb515d835f714F52AEA8d91?chain=ETH"
+              target="blank"
+              className="bg-babyPink text-white text-xl  font-bold rounded-full w-full md:w-[250px] h-[60px]  flex justify-center items-center gap-4 "
+            >
               Buy Now{" "}
               <svg
                 width="46"
@@ -40,7 +44,7 @@ const Hero = () => {
                   fill="white"
                 />
               </svg>
-            </button>
+            </a>
           </div>
           <img
             className="w-full max-w-[480px]  object-contain"

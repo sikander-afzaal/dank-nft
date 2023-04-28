@@ -9,7 +9,7 @@ const Tokenomics = () => {
           <div>
             <h2 className="title">TOKENOMICS</h2>
             <p className="text-xl sm:text-[30px] font-semibold text-white mt-4">
-              Token Supply: 420,420,420,420,420
+              Token Supply: 1,000,000,000,000
             </p>
           </div>
           <p className="text-xl sm:text-[30px]  font-semibold text-primary max-w-[460px]  ">

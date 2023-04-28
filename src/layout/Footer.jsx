@@ -13,6 +13,13 @@ const Footer = () => {
               alt=""
             />
           </a>
+          <a href="https://www.facebook.com/dankarmyeth" target="blank">
+            <img
+              src="/fb.webp"
+              className=" w-[45px]  hover:rotate-90 transition-all duration-700 object-contain"
+              alt=""
+            />
+          </a>
           <a href="https://t.me/dankarmyeth" target="blank">
             <img
               src="/telegram.svg"
@@ -27,7 +34,11 @@ const Footer = () => {
               alt=""
             />
           </a>
-          <a href="#" target="blank">
+
+          <a
+            href="https://etherscan.io/token/0x0f356DED5392Ca35CB2DEb69C6daeC9FC277A1Db"
+            target="blank"
+          >
             <img
               src="/medium.svg"
               className=" w-[45px]  hover:rotate-90 transition-all duration-700 object-contain"
