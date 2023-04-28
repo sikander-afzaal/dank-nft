@@ -5,7 +5,7 @@ const Hero = () => {
       className="wrapper pt-[140px] xl:min-h-[600px]  xl:h-screen"
     >
       <div className="contain flex-col justify-center items-center gap-10">
-        <h2 className="text-center uppercase  text-[28px] sm:text-[35px] text-white font-bold">
+        <h2 className="text-center uppercase  text-[28px] sm:text-[35px] lg:text-[42px] text-white font-bold">
           Dank is here to help grow the meme army{" "}
         </h2>
         <div className="flex xl:flex-row flex-col justify-between  items-center w-full gap-8">
