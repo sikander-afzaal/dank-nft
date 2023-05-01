@@ -17,7 +17,7 @@ const Header = () => {
           alt=""
         />
         <nav
-          className={`flex lg:justify-center lg:items-center gap-10 xl:gap-[60px] ${
+          className={`flex lg:justify-center lg:items-center gap-5 xl:gap-[30px] ${
             headerToggle ? "right-0" : "-right-full"
           } lg:static fixed top-0  lg:flex-row flex-col justify-start items-center sm:items-start px-[3rem] pt-[6rem] pb-[3rem] lg:p-0 w-full h-full bg-primary sm:max-w-[450px] lg:max-w-none lg:bg-transparent lg:w-auto xl:h-auto transition-all duration-700 z-[90]`}
         >
@@ -55,6 +55,13 @@ const Header = () => {
             className="text-white text-xl xl:text-[22px] font-semibold"
           >
             Roadmap
+          </a>
+          <a
+            onClick={() => setHeaderToggle(false)}
+            href="#utility"
+            className="text-white text-xl xl:text-[22px] font-semibold"
+          >
+            Utilities
           </a>
         </nav>
         <div className="flex justify-center gap-2">

@@ -1,6 +1,9 @@
 const How = () => {
   return (
-    <section id="how" className="wrapper pb-[50px] sm:pb-[100px] mt-[100px]">
+    <section
+      id="how"
+      className="wrapper pb-[50px] sm:pb-[100px] mt-[80px]  sm:mt-[100px]"
+    >
       <div className="contain flex-col justify-center items-center w-full gap-5">
         <h2 className="title mb-6">HOW TO BUY</h2>
         <Row
