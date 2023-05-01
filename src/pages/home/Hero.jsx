@@ -2,9 +2,9 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="wrapper pt-[140px] xl:min-h-[700px]  xl:h-screen"
+      className="wrapper pt-[140px] xl:min-h-[650px]  xl:h-screen"
     >
-      <div className="contain flex-col justify-center items-center gap-10">
+      <div className="contain flex-col justify-center items-center gap-5">
         <h2 className="text-center uppercase  text-[28px] sm:text-[35px] lg:text-[42px] text-white font-bold">
           Dank is here to help grow the meme army{" "}
         </h2>
