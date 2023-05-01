@@ -51,17 +51,17 @@ const Header = () => {
           </a>
           <a
             onClick={() => setHeaderToggle(false)}
-            href="#roadmap"
-            className="text-white text-xl xl:text-[22px] font-semibold"
-          >
-            Roadmap
-          </a>
-          <a
-            onClick={() => setHeaderToggle(false)}
             href="#utility"
             className="text-white text-xl xl:text-[22px] font-semibold"
           >
             Utilities
+          </a>
+          <a
+            onClick={() => setHeaderToggle(false)}
+            href="#roadmap"
+            className="text-white text-xl xl:text-[22px] font-semibold"
+          >
+            Roadmap
           </a>
         </nav>
         <div className="flex justify-center gap-2">
