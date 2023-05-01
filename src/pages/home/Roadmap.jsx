@@ -1,6 +1,6 @@
 const Roadmap = () => {
   return (
-    <section id="roadmap" className="wrapper py-[50px] sm:py-[100px]">
+    <section id="roadmap" className="wrapper pb-[50px] pt-[50px] sm:pb-[100px]">
       <div className="contain flex-col justify-start items-center gap-10">
         <h2 className="title">ROADMAP</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 mt-4 w-full gap-y-12 gap-x-7">

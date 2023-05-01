@@ -1,8 +1,8 @@
 const Partners = () => {
   return (
-    <section className="wrapper ">
+    <section className="wrapper mt-[60px]">
       <div className="contain flex-col justify-start items-center gap-5">
-        <h2 className="title">Partners</h2>
+        <h2 className="title">Partnership</h2>
         {/* <div className="w-full lg:flex-row flex-col gap-10 flex justify-between items-center">
           <div className="flex justify-start items-start flex-col gap-2 sm:gap-8">
             <div>

@@ -1,6 +1,6 @@
 const Utility = () => {
   return (
-    <section id="utility" className="wrapper mb-20">
+    <section id="utility" className="wrapper mb-20 pt-[50px]">
       <div className="contain flex-col justify-start items-center gap-10">
         <h2 className="title">Utilities</h2>
         <div className="grid grid-cols-1 xl:grid-cols-2 w-full gap-10">

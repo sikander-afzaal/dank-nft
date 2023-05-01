@@ -15,8 +15,8 @@ const Home = () => {
         <Partners />
         <How />
         <Tokenomics />
-        <Roadmap />
         <Utility />
+        <Roadmap />
       </>
     </>
   );

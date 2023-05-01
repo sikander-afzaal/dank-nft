@@ -2,7 +2,7 @@ const About = () => {
   return (
     <section
       id="about"
-      className="wrapper pb-[50px] sm:pb-[100px] xl:mt-0 mt-[100px] "
+      className="wrapper pb-[50px] mt- sm:pb-[100px]  mt-[100px] "
     >
       <div className="contain xl:flex-row flex-col  justify-center items-center w-full gap-14">
         <img
