@@ -114,7 +114,7 @@ const Roadmap = () => {
                 Press Release
               </p>
               <p className="text-white text-lg md:text-2xl font-semibold">
-                AI Meme Generator
+                NFT Collection
               </p>
             </div>
           </div>

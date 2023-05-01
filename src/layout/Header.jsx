@@ -54,7 +54,7 @@ const Header = () => {
             href="#utility"
             className="text-white text-xl xl:text-[22px] font-semibold"
           >
-            Utilities
+            Utility
           </a>
           <a
             onClick={() => setHeaderToggle(false)}
