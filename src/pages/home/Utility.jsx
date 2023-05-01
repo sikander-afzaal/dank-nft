@@ -6,7 +6,7 @@ const Utility = () => {
         <div className="grid grid-cols-1 xl:grid-cols-2 w-full gap-10">
           <div className="w-full flex justify-start items-center text-center xl:text-left xl:items-start flex-col gap-3">
             <p className="text-white text-lg lg:text-2xl font-semibold">
-              Coming Soon MemeSwap a Multichain Dex Platform
+              MemeSwap a Multichain Dex <br /> Platform (Coming Soon)
             </p>
             <p className="text-white text-lg lg:text-2xl font-semibold">
               We have UniSwap for ETH
