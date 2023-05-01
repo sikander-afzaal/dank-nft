@@ -3,7 +3,7 @@ const Partners = () => {
     <section className="wrapper ">
       <div className="contain flex-col justify-start items-center gap-5">
         <h2 className="title">Partners</h2>
-        <div className="w-full lg:flex-row flex-col gap-10 flex justify-between items-center">
+        {/* <div className="w-full lg:flex-row flex-col gap-10 flex justify-between items-center">
           <div className="flex justify-start items-start flex-col gap-2 sm:gap-8">
             <div>
               <h2 className="title">$PEPE</h2>
@@ -62,8 +62,8 @@ const Partners = () => {
             className="w-full sm:max-w-[476px] object-contain"
             alt=""
           />
-        </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 w-full gap-5">
+        </div> */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 mt-2 w-full gap-5">
           <PartnerRow name="uniswap" img="/uniswap.webp" url={"#"} />
           <PartnerRow name="mexc" img="/part2.webp" url={"#"} />
           <PartnerRow name="gate.io" img="/part3.webp" url={"#"} />
