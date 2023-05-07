@@ -66,20 +66,20 @@ const Partners = () => {
           />
         </div> */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 mt-2 w-full gap-5">
-          <PartnerRow name="uniswap" img="/uniswap.webp" url={"#"} />
-          <PartnerRow name="mexc" img="/part2.webp" url={"#"} />
-          <PartnerRow name="gate.io" img="/part3.webp" url={"#"} />
-          <PartnerRow name="huobi" img="/part4.webp" url={"#"} />
-          <PartnerRow name="poloniex" img="/part5.webp" url={"#"} />
-          <PartnerRow name="okx dex" img="/part6.webp" url={"#"} />
-          <PartnerRow name="Ibank" img="/part7.webp" url={"#"} />
-          <PartnerRow name="bingx" img="/part8.webp" url={"#"} />
-          <PartnerRow name="trustwallet" img="/part9.webp" url={"#"} />
-          <PartnerRow name="digifinex" img="/part10.webp" url={"#"} />
-          <PartnerRow name="btcex" img="/part11.webp" url={"#"} />
-          <PartnerRow name="dextools" img="/dex-big.webp" url={"#"} />
-          <PartnerRow name="coinmarketcap" img="/cmc.webp" url={"#"} />
-          <PartnerRow name="coingecko" img="/gecko.webp" url={"#"} />
+          <PartnerRow name="uniswap" img="/uniswap.webp"  />
+          <PartnerRow name="mexc" img="/part2.webp"  />
+          <PartnerRow name="gate.io" img="/part3.webp" />
+          <PartnerRow name="huobi" img="/part4.webp" />
+          <PartnerRow name="poloniex" img="/part5.webp"  />
+          <PartnerRow name="okx dex" img="/part6.webp"  />
+          <PartnerRow name="Ibank" img="/part7.webp"  />
+          <PartnerRow name="bingx" img="/part8.webp"  />
+          <PartnerRow name="trustwallet" img="/part9.webp"  />
+          <PartnerRow name="digifinex" img="/part10.webp"  />
+          <PartnerRow name="btcex" img="/part11.webp"  />
+          <PartnerRow name="dextools" img="/dex-big.webp" />
+          <PartnerRow name="coinmarketcap" img="/cmc.webp"  />
+          <PartnerRow name="coingecko" img="/gecko.webp"  />
         </div>
       </div>
     </section>

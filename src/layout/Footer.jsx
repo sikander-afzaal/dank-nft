@@ -27,9 +27,22 @@ const Footer = () => {
               alt=""
             />
           </a>
-          <a href="#" target="blank">
+          <a
+            href="https://www.dextools.io/app/en/ether/pair-explorer/0xcbb80c9757337a38079f177409addc02910ba9ac"
+            target="blank"
+          >
             <img
               src="/dex.svg"
+              className=" w-[45px]  hover:rotate-90 transition-all duration-700 object-contain"
+              alt=""
+            />
+          </a>
+          <a
+            href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x0f356DED5392Ca35CB2DEb69C6daeC9FC277A1Db"
+            target="blank"
+          >
+            <img
+              src="/uniswap.webp"
               className=" w-[45px]  hover:rotate-90 transition-all duration-700 object-contain"
               alt=""
             />

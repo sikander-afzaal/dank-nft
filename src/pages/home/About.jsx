@@ -14,7 +14,7 @@ const About = () => {
           <h2 className="title">About</h2>
           <p className="text-white text-lg md:text-2xl font-semibold">
             Dank was recruited to help $Pepe take back what was originally his,
-            which is the meme community. <br /> The Inu’s have had their day.
+            which is the meme community. <br /> <br></br> The Inu’s have had their day.
             It’s time for the Dank Army to help Pepe to take his reign as king
             of the memes.
           </p>

@@ -20,13 +20,13 @@ const Hero = () => {
               Launched with zero taxes
             </p>
             <p className="text-lg md:text-xl font-bold text-white">
-              LP burnt and a clean BS free contract
+              Clean BS free contract
             </p>
             <p className="text-lg md:text-xl font-bold text-white">
               $DANK is the perfect coin for all meme lovers worldwide.
             </p>
             <a
-              href="https://www.pinksale.finance/launchpad/0x532562f64CA3fD412Eb515d835f714F52AEA8d91?chain=ETH"
+              href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x0f356DED5392Ca35CB2DEb69C6daeC9FC277A1Db"
               target="blank"
               className="bg-babyPink text-white text-xl  font-bold rounded-full w-full md:w-[250px] h-[60px]  flex justify-center items-center gap-4 "
             >
